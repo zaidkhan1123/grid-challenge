@@ -32,7 +32,7 @@ background-color: aliceblue;
 }
 
 
-@media(max-width: 766px ){
+@media(max-width: 1196px ){
     .box-four{
         margin-top: 28%;
         margin-left: 30px;
@@ -40,14 +40,14 @@ background-color: aliceblue;
     }
 }
 
-@media(max-width: 766px ){
+@media(max-width: 1196px ){
     .purple{
         
         margin-left: 30px;
     }
 }
 
-@media(max-width: 766px ){
+@media(max-width: 1196px ){
     .box-three{
         
         margin-left: 27px;
@@ -55,7 +55,7 @@ background-color: aliceblue;
     }
 }
 
-@media(max-width: 766px ){
+@media(max-width: 1196px ){
     .box-three{
         
         margin-left: 27px;
