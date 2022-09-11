@@ -56,9 +56,9 @@ background-color: aliceblue;
 }
 
 @media(max-width: 1196px ){
-    .box-three{
+    .box-two{
         
-        margin-left: 27px;
-        width: 467px ;
+        margin-left: 5px;
+        width: 92% ;
     }
 }
