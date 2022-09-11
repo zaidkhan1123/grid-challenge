@@ -20,6 +20,7 @@ body{
 
 .box-two{
     background-color: hsl(217, 19%, 35%);
+    margin-left:2.5rem;
 }
 .box-three{
 background-color: aliceblue;
